@@ -83,6 +83,10 @@
     .locals 2
 
     .prologue
+    const v0, 0x7f0c0238
+
+    invoke-virtual {p0, v0}, Lcom/google/android/apps/hangouts/telephony/ui/TeleSetupActivity;->setTheme(I)V
+
     .line 44
     const-string v0, "Babel_telephony"
 

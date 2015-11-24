@@ -728,7 +728,7 @@
     .line 176
     iget-object v0, p0, Lcom/google/android/apps/hangouts/hangout/IncomingRingActivity;->r:Lcom/google/android/apps/hangouts/views/AvatarView;
 
-    const v1, 0x106000b
+    const v1, 0x7f0e0033
 
     invoke-virtual {v0, v1}, Lcom/google/android/apps/hangouts/views/AvatarView;->setBackgroundResource(I)V
 
@@ -813,7 +813,7 @@
     .line 190
     iget-object v0, p0, Lcom/google/android/apps/hangouts/hangout/IncomingRingActivity;->r:Lcom/google/android/apps/hangouts/views/AvatarView;
 
-    const v1, 0x106000c
+    const v1, 0x7f0e0082
 
     invoke-virtual {v0, v1}, Lcom/google/android/apps/hangouts/views/AvatarView;->setBackgroundResource(I)V
 
